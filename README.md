@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Daniel, I’m interested in backend development.
+- 👀 I'm currently expanding my skills by learning automated testing
