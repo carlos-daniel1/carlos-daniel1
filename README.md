@@ -1,2 +1,4 @@
-- 👋 Hi, I’m Daniel, I’m interested in backend development.
-- 👀 I'm currently expanding my skills by learning automated testing
+- 👋 Hi, I’m Daniel, I’m interested in fullstack development  
+- ⚡ I have experience building APIs with Node.js  
+- 🚀 I'm currently expanding my skills by learning Node.js and React
+- ✅ Focused on writing clean code
