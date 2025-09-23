@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Daniel, I’m interested in fullstack development  
-- ⚡ I have solid experience in backend development using Node.js, Java, and Python.
-- 💻 I have experience in front-end development with HTML, CSS, JavaScript, and React.
-- 🚀 I'm currently expanding my skills by learning Java Spring
+- ⚡ I have solid experience in fullstack development using Node.js, Java (Spring) and React.
+- 🚀 I'm currently expanding my skills by learning Java with Spring Security
 - ✅ Focused on writing clean code
